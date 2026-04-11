@@ -1,0 +1,11 @@
+From: Furqan Ali <furqanali2628@gmail.com>
+Subject: PAYMENT REQUEST
+
+APPROVAL REQUIRED: Send $500 invoice to Client ABC
+
+Client: ABC Corporation
+Amount: $500
+Due: April 20, 2026
+
+Best regard Ali and co
+

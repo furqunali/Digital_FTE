@@ -1,0 +1,9 @@
+﻿SEND EMAIL
+To: furqanfarrukh12345@gmail.com
+Subject: AI Employee Test from PowerShell
+
+Hello! This is a test from my second PowerShell window.
+
+My AI Employee is working perfectly!
+
+- Furqan
